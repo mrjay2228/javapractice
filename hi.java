@@ -22,5 +22,7 @@ public class hi
         obj.setAge(10);
         
         System.out.println(obj.getAge());
+        System.out.println(obj.getAge());
+        System.out.println(obj.getAge());
     }
 }
